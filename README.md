@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/49b84b37-f4f9-451e-a497-fc961f29c185)1-Liste todos os clientes cadastrados:
+1-Liste todos os clientes cadastrados:
 'BIANCA MARIA PEDROSA'
 'JOÃO CARLOS DA SILVA'
 'MARIA FAGUNDES'
